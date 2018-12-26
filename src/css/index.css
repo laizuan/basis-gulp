@@ -1,0 +1,21 @@
+.container .wrapper .wrapper-header .header {
+  position: absolute;
+  width: 100%;
+  z-index: 10;
+}
+.container .wrapper .wrapper-header .swiper-container {
+  width: 100%;
+  height: 500px;
+}
+.container .wrapper .wrapper-header .swiper-container .swiper-wrapper .swiper-slide:nth-child(1) {
+  background: url(../img/banner.png) no-repeat center center;
+}
+.container .wrapper .wrapper-header .swiper-container .swiper-wrapper .swiper-slide:nth-child(2) {
+  background: url(../img/banner-02.jpg) no-repeat center center;
+}
+.container .wrapper .wrapper-header .swiper-container .swiper-wrapper .swiper-slide:nth-child(3) {
+  background: url(../img/banner-company.jpg) no-repeat center center;
+}
+.wrapper-main ul li {
+  list-style: none;
+}
