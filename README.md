@@ -37,7 +37,7 @@ basis-gulp
 ```bash
 
 # 克隆项目
-git clone https://gitee.com/laizuan/basis-gulp.git
+git clone https://github.com/laizuan/basis-gulp.git
 
 # 安装依赖
 npm install
@@ -84,7 +84,7 @@ Headroom | 隐藏或展示页面元素 | [http://www.bootcss.com/p/headroom.js/]
 NProgress | 网页进度条 | [http://ricostacruz.com/nprogress/](http://ricostacruz.com/nprogress/)
 
 ## 效果图
-![demo](https://11-1252792348.cos.ap-guangzhou.myqcloud.com/basis-gulp.gif)
+![demo](https://github.com/laizuan/basis-gulp/blob/master/src/img/basis-gulp.gif)
 
 ## 捐助
 
@@ -94,4 +94,4 @@ NProgress | 网页进度条 | [http://ricostacruz.com/nprogress/](http://ricosta
 
 ## License
 
-[MIT](https://gitee.com/laizuan/basis-gulp/blob/master/LICENSE)
+[MIT](https://github.com/laizuan/basis-gulp/blob/master/LICENSE)
